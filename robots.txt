@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ukiyuave.github.io/sitemap_index.ukiyuave
